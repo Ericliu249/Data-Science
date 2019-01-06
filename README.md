@@ -1,3 +1,3 @@
 # Churn Prediction Using Machine Learning
-Just another respository
+Just another repository
 Future data scientist diary
